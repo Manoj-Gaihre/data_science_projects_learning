@@ -14,6 +14,7 @@ The projects focus on building practical skills in data analysis, data preproces
 ## Project Progress
 
 - completed project 1: Titanic Survival Prediction.
+- completed project 2: Movie Rating Prediction.
 
 ## Projects
 
